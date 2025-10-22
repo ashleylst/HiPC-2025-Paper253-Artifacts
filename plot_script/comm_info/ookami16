@@ -1,0 +1,21 @@
+
+
+No blocking for 1 block length: 1.4349   seconds, mesurement rounds: 200
+blocking for 1 block length: 1.4160   seconds, mesurement rounds: 200
+blocking for 1 block per entry length: 14.1052  seconds, mesurement rounds: 200
+
+No blocking for 2 block length: 2.9121   seconds, mesurement rounds: 200
+blocking for 2 block length: 2.8071   seconds, mesurement rounds: 200
+blocking for 2 block per entry length: 14.1429  seconds, mesurement rounds: 200
+
+No blocking for 4 block length: 5.8933   seconds, mesurement rounds: 200
+blocking for 4 block length: 5.3586   seconds, mesurement rounds: 200
+blocking for 4 block per entry length: 12.8172  seconds, mesurement rounds: 200
+
+No blocking for 8 block length: 11.6802  seconds, mesurement rounds: 200
+blocking for 8 block length: 10.5861  seconds, mesurement rounds: 200
+blocking for 8 block per entry length: 13.1976  seconds, mesurement rounds: 200
+
+No blocking for 16 block length: 23.7114  seconds, mesurement rounds: 200
+blocking for 16 block length: 30.4166  seconds, mesurement rounds: 200
+blocking for 16 block per entry length: 36.8249  seconds, mesurement rounds: 200

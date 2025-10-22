@@ -1,0 +1,51 @@
+
+
+
+
+
+
++----------------------------------------------------------+
+|       FGMRES iterations: 100    coarse average: 0        |
+| exact relative residual: ||r||/||b|| = 3.562397e-01      |
+| elapsed wall clock time: 1.5879   seconds                |
+|      coarsest grid time: 0.0000   seconds (00.0%)        |
+|  consumed core minutes: 2.17e+02 (solve only)            |
+|    max used mem/MPIproc: 0.00e+00 GB                     |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+|       FGMRES iterations: 100    coarse average: 0        |
+| exact relative residual: ||r||/||b|| = 3.562361e-01      |
+| elapsed wall clock time: 2.6439   seconds                |
+|      coarsest grid time: 0.0000   seconds (00.0%)        |
+|  consumed core minutes: 3.61e+02 (solve only)            |
+|    max used mem/MPIproc: 0.00e+00 GB                     |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+|       FGMRES iterations: 100    coarse average: 0        |
+| exact relative residual: ||r||/||b|| = 3.562358e-01      |
+| elapsed wall clock time: 5.9844   seconds                |
+|      coarsest grid time: 0.0000   seconds (00.0%)        |
+|  consumed core minutes: 8.54e+02 (solve only)            |
+|    max used mem/MPIproc: 0.00e+00 GB                     |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+|       FGMRES iterations: 100    coarse average: 0        |
+| exact relative residual: ||r||/||b|| = 3.562458e-01      |
+| elapsed wall clock time: 9.6981   seconds                |
+|      coarsest grid time: 0.0000   seconds (00.0%)        |
+|  consumed core minutes: 1.32e+03 (solve only)            |
+|    max used mem/MPIproc: 0.00e+00 GB                     |
++----------------------------------------------------------+
+
++----------------------------------------------------------+
+|       FGMRES iterations: 100    coarse average: 0        |
+| exact relative residual: ||r||/||b|| = 3.562441e-01      |
+| elapsed wall clock time: 18.8424  seconds                |
+|      coarsest grid time: 0.0000   seconds (00.0%)        |
+|  consumed core minutes: 2.57e+03 (solve only)            |
+|    max used mem/MPIproc: 0.00e+00 GB                     |
++----------------------------------------------------------+
+
