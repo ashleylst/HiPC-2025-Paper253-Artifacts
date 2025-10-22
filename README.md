@@ -27,5 +27,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Citation
 
 
-To cite this repository in your work, please use the following DOI:
-
+To cite this repository in your work, please use the following DOI: [10.5281/zenodo.17419087](https://doi.org/10.5281/zenodo.17419087)
