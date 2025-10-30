@@ -17,6 +17,7 @@ The code relating to the paper is hosted here: https://git.uni-wuppertal.de/stre
 - `src/`
   - `DDalphaAMG-Cpp-papi`: source code of DDalphaAMG for PAPI readings
   - `DDalphaAMG-Cpp-test_omp`: source code of DDalphaAMG with the multiple rhs optimizations
+  - `sme-experiments`: source code, driver script for SME experiments
 
 ## License
 
